@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-{% include image.html url="/images/me.png" caption="My photo." width=300 align="right" %}
+{% include image.html url="/images/me.png" caption="Nov. 2013@Sanya Hainan Province" width=300 align="right" %}
 
 # Brief Biography
 
@@ -33,5 +33,6 @@ I'm currently a **Research Scientist** at **Dragon ASR Research Department** of 
 
 * Email: chenmengdx@gmail.com
 * WeChat: chenmengdx
+* Weibo: [weibo.com/chenmengdx](http://weibo.com/chenmengdx/home?wvr=5&lf=reg)
 * LinkedIn: [Find Me at LinkedIn](https://cn.linkedin.com/in/meng-chen-50547a3a)
 

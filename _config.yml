@@ -2,9 +2,9 @@
 title: Meng Chen
 email: chenmengdx@gmail.com
 description: 
-  Unit 502-505 Floor of ONE INDIGO
-  20 Jiuxianqiao Road
-  Chaoyang District,100016
+  Unit 502-505 Floor of ONE INDIGO,
+  20 Jiuxianqiao Road,
+  Chaoyang District,100016,
   Beijing, China
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chenmengdx.github.io" # the base hostname & protocol for your site
