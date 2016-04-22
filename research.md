@@ -17,15 +17,15 @@ I'm currently a **Research Scientist** at **Dragon ASR Research Department** of 
 * **Meng Chen**, _"Re-ranking Chinese Cloud Text Input Prediction with RNNLM"_, in Nuance Research Conference 2016 (NRC 2016), 2016.
 * Ning Han, **Meng Chen**, and Nan He, _"Collect and Filter Weibo for Chinese ALM Training Corpus"_, in Nuance Research Conference 2016 (NRC 2016), 2016.
 * **Meng Chen** and Qi Zhang, _"Chinese Cloud Text Input Prediction: From Core & Linguistic Perspective"_, in Nuance Research Conference 2015 (NRC 2015), 2015. Montreal, Canada.
-* **Meng Chen**, Yang Song and Lan Wang, _"Adapted Language Modeling for Recognition of Retelling Story in Language Learning"_, Proceedings of 2012 International Conference on Audio, Language and Image Processing(ICALIP 2012). Pp. 449-453, 2012.7.16-18, Shanghai China. [[pdf](chenmengdx.github.io/papers/ICALIP2012.pdf)]
-* **Meng Chen**, Dean Luo and Lan Wang. _"Automatic Scoring in a Task of Retelling Stories for Language Learners"_. Proceedings of the 15th World Multi-conference on Systemics, Cybernetics and Informatics(WMSCI 2011). Pp. 289-292, July 2011 Orlando, FL, United States. [[pdf](chenmengdx.github.io/papers/WMSCI2011.pdf)]
+* **Meng Chen**, Yang Song and Lan Wang, _"Adapted Language Modeling for Recognition of Retelling Story in Language Learning"_, Proceedings of 2012 International Conference on Audio, Language and Image Processing(ICALIP 2012). Pp. 449-453, 2012.7.16-18, Shanghai China. [[pdf](../papers/ICALIP2012.pdf)]
+* **Meng Chen**, Dean Luo and Lan Wang. _"Automatic Scoring in a Task of Retelling Stories for Language Learners"_. Proceedings of the 15th World Multi-conference on Systemics, Cybernetics and Informatics(WMSCI 2011). Pp. 289-292, July 2011 Orlando, FL, United States. [[pdf](../papers/WMSCI2011.pdf)]
 
 
 
 # Thesis
 
-* Master Thesis: _Research on Automatic Scoring of Pronunciation in Oral English Test_ [[pdf](chenmengdx.github.io/papers/Master_thesis.pdf)]
-* Bachelor Thesis: _Research on Speech Recognition in the Noise Environment_ [[pdf](chenmengdx.github.io/papers/Bachelor_thesis.pdf)]
+* Master Thesis: _Research on Automatic Scoring of Pronunciation in Oral English Test_ [[pdf](../papers/Master_thesis.pdf)]
+* Bachelor Thesis: _Research on Speech Recognition in the Noise Environment_ [[pdf](../papers/Bachelor_thesis.pdf)]
 
 
 
