@@ -6,7 +6,7 @@ description:
   20 Jiuxianqiao Road,
   Chaoyang District,100016,
   Beijing, China
-baseurl: "/research/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chenmengdx.github.io" # the base hostname & protocol for your site
 twitter_username: chenmengdx
 github_username:  chenmengdx
