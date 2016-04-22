@@ -1,11 +1,11 @@
 # Site settings
 title: Meng Chen
 email: chenmengdx@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: 
   Unit 502-505 Floor of ONE INDIGO
   20 Jiuxianqiao Road
-  Chaoyang District,Beijing
-  China
+  Chaoyang District,100016
+  Beijing, China
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chenmengdx.github.io" # the base hostname & protocol for your site
 twitter_username: chenmengdx
