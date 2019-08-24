@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /publication/
+title: Research
+permalink: /research/
 ---
 
 # Publications
