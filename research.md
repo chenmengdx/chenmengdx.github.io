@@ -1,16 +1,8 @@
 ---
 layout: page
-title: Research
+title: Publications
 permalink: /research/
 ---
-
-{% include image.html url="/images/me.png" caption="Nov. 2013@Sanya Hainan Province" width=300 align="right" %}
-
-# Brief Biography
-
-I'm currently a Tech Lead at [JD AI](http://air.jd.com) and working with [Dr. Xiaodong He](http://faculty.washington.edu/xiaohe/). I lead a team with 10 FTEs to make effort to some Dialogue Systems and AI for Art projects. Before that, I was a Senior Researcher at Dragon Research of [Nuance Communications](http://www.nuance.com/index.htm). My research interests mainly focus on **Computational Linguistics** and **Automatic Speech Recognition**. The specific application scenario includes Dialogue System, Natural Language Generation, and Speech Recognition etc. I received my Master of Science Degree from [University of Chinese Academy of Sciences](http://www.gucas.ac.cn/) in 2012. My supervisor is [Prof. Helen Meng](http://www.se.cuhk.edu.hk/people/hmmeng.html). I mainly worked with [Dr. Lan Wang](http://sourcedb.cas.cn/sourcedb_siat_cas/yw/zjrc/200907/t20090713_2066858.html) and [Dr. Dean Luo](http://sourcedb.cas.cn/sourcedb_siat_cas/yw/zjrc/201103/t20110317_3087387.html) on automatic scoring of pronunciation in oral English test during my graduated university. I got my Bachelor of Science Degree in Computer Science from [University of Science & Technology Beijing](http://www.ustb.edu.cn/). I was an Assistant Researcher at [Sogou Speech Team](https://www.sogou.com/) from 2012 to 2013. I was also an Intern in [Microsoft China](https://www.microsoft.com/zh-cn) in 2009.
-
-
 
 # Publications
 
