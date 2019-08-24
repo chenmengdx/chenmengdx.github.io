@@ -27,3 +27,13 @@ permalink: /research/
 * Bachelor Thesis: _Research on Speech Recognition in the Noise Environment_ [[pdf](../papers/Bachelor_thesis.pdf)]
 
 
+# Academic Conference Experiences
+* IJCAI 2019, Macao, China
+* ACL 2018, Melbourne, Australia
+* NRC 2018, Boston, USA
+* ACL 2017, Vancouver, Canada
+* NRC 2017, Boston, USA
+* ACL 2015, Beijing, China
+* NRC 2015, Montreal, Canada
+
+
