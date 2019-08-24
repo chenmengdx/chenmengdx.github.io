@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Publications
-permalink: /research/
+permalink: /publication/
 ---
 
 # Publications
@@ -26,12 +25,4 @@ permalink: /research/
 * Master Thesis: _Research on Automatic Scoring of Pronunciation in Oral English Test_ [[pdf](../papers/Master_thesis.pdf)]
 * Bachelor Thesis: _Research on Speech Recognition in the Noise Environment_ [[pdf](../papers/Bachelor_thesis.pdf)]
 
-
-
-# Contact Information
-
-* Email: chenmengdx@gmail.com
-* WeChat: chenmengdx
-* Weibo: [weibo.com/chenmengdx](http://weibo.com/chenmengdx/home?wvr=5&lf=reg)
-* LinkedIn: [Find Me at LinkedIn](https://cn.linkedin.com/in/meng-chen-50547a3a)
 

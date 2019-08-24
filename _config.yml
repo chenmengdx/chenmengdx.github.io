@@ -1,10 +1,10 @@
 # Site settings
 title: Meng Chen
-email: chenmengdx@gmail.com
+email: chenmengdx@163.com
 description: 
-  Unit 502-505 Floor of ONE INDIGO,
-  20 Jiuxianqiao Road,
-  Chaoyang District,100016,
+  Room 1804, Building 8,
+  Huaxiangdongyuan Community,
+  Fengtai District,100070,
   Beijing, China
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chenmengdx.github.io" # the base hostname & protocol for your site
