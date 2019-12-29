@@ -8,7 +8,7 @@ permalink: /research/
 
 * Hang Liu, Yujie Zhang, **Meng Chen**, Jinan Xu and Yufeng Chen. _"A Sequence-to-Action Architecture for Character-based Chinese Dependency Parsing with Status History"_, The 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), 2019. (CCF Rank C) [[pdf](../papers/NLPCC2019_parsing_final.pdf)]
 * Xiaoyu Guo, **Meng Chen**, Yang Song, Xiaodong He, and Bowen Zhou. _"Automated Thematic and Emotional Modern Chinese Poetry Composition"_, The 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), 2019. (CCF Rank C) [[pdf](../papers/NLPCC2019_poetry_final.pdf)]
-* Ruixue Liu, Baoyang Chen, Xiaoyu Guo, **Meng Chen**, Zhijie Qiu, and Xiaodong He. _"Another AI? Artificial Imagination for Artistic Mind Map Generation"_, International Journal of Multimedia Data Engineering and Management (IJMDEM), Volume 10, Issue 3, Article 3, 2019. (ESCI) [pdf]
+* Ruixue Liu, Baoyang Chen, Xiaoyu Guo, **Meng Chen**, Zhijie Qiu, and Xiaodong He. _"Another AI? Artificial Imagination for Artistic Mind Map Generation"_, International Journal of Multimedia Data Engineering and Management (IJMDEM), Volume 10, Issue 3, Article 3, 2019. (ESCI) [[pdf](../papers/IJMDEM.pdf)]
 * Ruixue Liu, Baoyang Chen, **Meng Chen**, Youzheng Wu, Zhijie Qiu, and Xiaodong He. _"Mappa Mundi: An Interactive Artistic Mind Map Generator with Artificial Imagination"_. Proceedings of The 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019. (CCF Rank A) [[pdf](../papers/IJCAI2019.pdf)]
 * Ruixue Liu, Baoyang Chen, Xiaoyu Guo, Yan Dai, **Meng Chen**, Zhijie Qiu, and Xiaodong He. _"From Knowledge Map to Mind Map: Artificial Imagination"_. Proceedings of the Second International Conference on Multimedia Information Processing and Retrieval(MIPR), pages 496–501, 2019. (EI) [[pdf](../papers/AIArt2019.pdf)]
 * **Meng Chen**, Erik Larsson, Eric Marshall, Rita Cheung, _"Language Model Enhancement for New Challenges in NCS Mandarin"_, Nuance Research Conference 2018 (NRC 2018), Boston, USA. [Internal Publication]
@@ -28,6 +28,7 @@ permalink: /research/
 
 
 # Academic Conference Experiences
+* NLPCC 2019, Dunhuang, China
 * IJCAI 2019, Macao, China
 * ACL 2018, Melbourne, Australia
 * NRC 2018, Boston, USA
