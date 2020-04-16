@@ -6,7 +6,7 @@ permalink: /research/
 
 # Publications
 
-* Lei Shen, Xiaoyu Guo, **Meng Chen**, Youzheng Wu, Yang Feng, Xiaodong He and Bowen Zhou, _"Compose Like Humans: Jointly Improving the Coherence and Novelty for Modern Chinese Poetry Generation"_, The 2020 International Joint Conference on Neural Networks (IJCNN). 2020 (CCF Rank C) [pdf]
+* Lei Shen, Xiaoyu Guo, **Meng Chen**, _"Compose Like Humans: Jointly Improving the Coherence and Novelty for Modern Chinese Poetry Generation"_, The 2020 International Joint Conference on Neural Networks (IJCNN). 2020 (CCF Rank C) [[pdf](../papers/IJCNN2020.pdf)]
 * **Meng Chen**, Ruixue Liu, Lei Shen, Shaozu Yuan, Jingyan Zhou, Youzheng Wu, Xiaodong He and Bowen Zhou. _"The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service"_, The 12th International Conference on Language Resources and Evaluation (LREC), 2020. [[pdf](../papers/JDDC_camera_ready.pdf)]
 * Yuquan Le, Congqing He, **Meng Chen**, Youzheng Wu, Xiaodong He, Bowen Zhou. _"Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network"_, The 24th European Conference on Artificial Intelligence (ECAI), 2020. (CCF Rank B) [[pdf](../papers/SAttCaps_camera_ready.pdf)]
 * Hang Liu, Yujie Zhang, **Meng Chen**, Jinan Xu and Yufeng Chen. _"A Sequence-to-Action Architecture for Character-based Chinese Dependency Parsing with Status History"_, The 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), 2019. (CCF Rank C) [[pdf](../papers/NLPCC2019_parsing_final.pdf)]
