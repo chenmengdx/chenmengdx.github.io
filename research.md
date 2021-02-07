@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 # Publications
-* Hang Liu, Meng Chen, Youzheng Wu, Xiaodong He, Bowen Zhou, _"Conversational Query Rewriting with Self-supervised Learning"_, 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021). (CCF Rank B) [[pdf](../papers/ICASSP2021_camera_ready.pdf)]
+* Hang Liu, **Meng Chen**, Youzheng Wu, Xiaodong He, Bowen Zhou, _"Conversational Query Rewriting with Self-supervised Learning"_, 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021). (CCF Rank B) [[pdf](../papers/ICASSP2021_camera_ready.pdf)]
 * Ruixue Liu, Shaozu Yuan, **Meng Chen**, Baoyang Chen, Zhijie Qiu, Xiaodong He, _"MaLiang: An Emotion-driven Chinese Calligraphy Artwork Composition System"_, The 28th ACM International Conference on Multimedia (MM 2020) (CCF Rank A) [[pdf](../papers/MM20_calligraphy.pdf)]
 * Ruixue Liu, **Meng Chen**, Hang Liu, Lei Shen, Yang Song and Xiaodong He, _"Enhancing Multi-turn Dialogue Modeling with Intent Information for E-commerce Customer Service"_, The 9th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), 2020. (CCF Rank C) [[pdf](../papers/NLPCC2020.pdf)]
 * Lei Shen, Xiaoyu Guo, **Meng Chen**, _"Compose Like Humans: Jointly Improving the Coherence and Novelty for Modern Chinese Poetry Generation"_, The 2020 International Joint Conference on Neural Networks (IJCNN). 2020 (CCF Rank C) [[pdf](../papers/IJCNN2020.pdf)]
