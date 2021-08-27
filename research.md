@@ -8,7 +8,7 @@ permalink: /research/
 
 <p>
 <b>SketchBird: Learning to Generate Bird Sketches from Text</b> <br />
-Shaozu Yuan, Aijun Dai, Zhiling Yan, Zehua Guo, Ruixue Liu, <font color="red">Meng Chen</font> <br />
+Shaozu Yuan, Aijun Dai, Zhiling Yan, Zehua Guo, Ruixue Liu, <font color="blue">Meng Chen</font> <br />
 ICCV 2021 Workshop on Sketching for Human Expressivity. [<a href="../papers/ICASSP2021_camera_ready.pdf">pdf</a>]
 </p>
 
