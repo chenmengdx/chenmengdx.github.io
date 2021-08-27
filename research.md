@@ -1,15 +1,15 @@
 ---
 layout: page
+title: Publications
 permalink: /research/
 ---
 
 <div>
-<h1>Publications</h1>
 
 <p>
 <b>SketchBird: Learning to Generate Bird Sketches from Text</b> <br />
-Hang Liu, <b>Meng Chen</b>, Youzheng Wu, Xiaodong He, Bowen Zhou <br />
-2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021). [[pdf](../papers/ICASSP2021_camera_ready.pdf)]
+Shaozu Yuan, Aijun Dai, Zhiling Yan, Zehua Guo, Ruixue Liu, <b>Meng Chen</b> <br />
+ICCV 2021 Workshop on Sketching for Human Expressivity. [<a href="../papers/ICASSP2021_camera_ready.pdf">pdf</a>]
 </p>
 
 <p>
