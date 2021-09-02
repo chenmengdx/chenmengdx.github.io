@@ -7,6 +7,12 @@ permalink: /research/
 <div>
 
 <p>
+<b>DialogueBERT: A Self-Supervised Learning based Dialogue Pre-training Encoder</b> <br />
+Zhenyu Zhang, Tao Guo, <font color="blue"> Meng Chen</font> <br />
+The 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). [<a href="../papers/CIKM2021.pdf">pdf</a>]
+</p>
+
+<p>
 <b>SketchBird: Learning to Generate Bird Sketches from Text</b> <br />
 Shaozu Yuan, Aijun Dai, Zhiling Yan, Zehua Guo, Ruixue Liu, <font color="blue">Meng Chen</font> <br />
 ICCV 2021 Workshop on Sketching for Human Expressivity. [<a href="../papers/ICCV2021.pdf">pdf</a>]
