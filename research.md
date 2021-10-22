@@ -27,7 +27,7 @@ The 29th ACM International Conference on Multimedia (ACM Multimedia 2021). [<a h
 <p>
 <b>Learning to Compose Stylistic Calligraphy Artwork with Emotions</b> <br />
 Shaozu Yuan*, Ruixue Liu*, <font color="blue">Meng Chen</font>, Baoyang Chen, Zhijie Qiu, Xiaodong He <br />
-The 29th ACM International Conference on Multimedia (ACM Multimedia 2021). [<a href="../papers/MM21_calligraphy.pdf">pdf</a>]
+The 29th ACM International Conference on Multimedia (ACM Multimedia 2021, <font color="red">Best Demo Award</font>). [<a href="../papers/MM21_calligraphy.pdf">pdf</a>]
 </p>
 
 <p>
