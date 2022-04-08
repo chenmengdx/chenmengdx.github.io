@@ -7,6 +7,36 @@ permalink: /research/
 <div>
 
 <p>
+<b>Label Anchored Contrastive Learning for Language Understanding</b> <br />
+Zhenyu Zhang, Yuming Zhao, <font color="blue"> Meng Chen</font>, Xiaodong He <br />
+The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022). [to appear]
+</p>
+
+<p>
+<b>E-ConvRec: A Large-Scale Conversational Recommendation Dataset for E-Commerce Customer Service</b> <br />
+Meihuizi Jia, Ruixue Liu, Peiying Wang, Yang Song, Zexi Xi, Haobin Li, Xin Shen, <font color="blue"> Meng Chen</font>, Jinhui Pang, Xiaodong He <br />
+The 13th International Conference on Language Resources and Evaluation (LREC 2022). [to appear]
+</p>
+
+<p>
+<b>SE-GAN: Skeleton Enhanced GAN-based Model for Brush Handwriting Font Generation</b> <br />
+Shaozu Yuan, Ruixue Liu, <font color="blue"> Meng Chen</font>, Baoyang Chen, Zhijie Qiu, Xiaodong He <br />
+IEEE International Conference on Multimedia and Expo 2022 (ICME 2022). [<a href="../papers/ICME2022.pdf">pdf</a>]
+</p>
+
+<p>
+<b>Building Robust Spoken Language Understanding by Cross Attention Between Phoneme Sequence and ASR Hypothesis </b> <br />
+Zexun Wang*, Yuquan Le*, Yi Zhu, Yuming Zhao, Mingchao Feng, <font color="blue"> Meng Chen</font>, Xiaodong He <br />
+2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022). [<a href="../papers/ICASSP_slu.pdf">pdf</a>]
+</p>
+
+<p>
+<b>Gated Multimodal Fusion with Contrastive Learning for Turn-taking Prediction in Human-Robot Dialogue</b> <br />
+Jiudong Yang*, Peiying Wang*, Yi Zhu, Mingchao Feng, <font color="blue"> Meng Chen</font>, Xiaodong He <br />
+2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022). [<a href="../papers/ICASSP_turn_taking.pdf">pdf</a>]
+</p>
+
+<p>
 <b>DialogueBERT: A Self-Supervised Learning based Dialogue Pre-training Encoder</b> <br />
 Zhenyu Zhang, Tao Guo, <font color="blue"> Meng Chen</font> <br />
 The 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). [<a href="../papers/CIKM2021.pdf">pdf</a>]
