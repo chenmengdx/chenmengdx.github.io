@@ -7,15 +7,21 @@ permalink: /research/
 <div>
 
 <p>
+<b>Learning to Generate Poetic Chinese Landscape Painting with Calligraphy</b> <br />
+Shaozu Yuan, Aijun Dai, Zhiling Yan, Ruixue Liu, <font color="blue"> Meng Chen</font>, Baoyang Chen, Zhijie Qiu, Xiaodong He <br />
+The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022). [<a href="../papers/IJCAI22.pdf">pdf</a>]
+</p>
+
+<p>
 <b>Label Anchored Contrastive Learning for Language Understanding</b> <br />
 Zhenyu Zhang, Yuming Zhao, <font color="blue"> Meng Chen</font>, Xiaodong He <br />
-The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022). [to appear]
+The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022). [<a href="../papers/NAACL22.pdf">pdf</a>]
 </p>
 
 <p>
 <b>E-ConvRec: A Large-Scale Conversational Recommendation Dataset for E-Commerce Customer Service</b> <br />
 Meihuizi Jia, Ruixue Liu, Peiying Wang, Yang Song, Zexi Xi, Haobin Li, Xin Shen, <font color="blue"> Meng Chen</font>, Jinhui Pang, Xiaodong He <br />
-The 13th International Conference on Language Resources and Evaluation (LREC 2022). [to appear]
+The 13th International Conference on Language Resources and Evaluation (LREC 2022). [<a href="../papers/LREC22.pdf">pdf</a>]
 </p>
 
 <p>
