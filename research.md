@@ -7,6 +7,18 @@ permalink: /research/
 <div>
 
 <p>
+<b>SCaLa: Supervised Contrastive Learning for End-to-End Speech Recognition</b> <br />
+Li Fu, Xiaoxiao Li, Runyu Wang, Lu Fan, Zhengchen Zhang, <font color="blue"> Meng Chen</font>, Youzheng Wu, Xiaodong He <br />
+The 23rd INTERSPEECH Conference (Interspeech 2022). [Accepted, to appear]
+</p>
+
+<p>
+<b>Cross-modal Transfer Learning via Multi-grained Alignment for End-to-End Spoken Language Understanding</b> <br />
+Yi Zhu*, Zexun Wang*, Hang Liu, Peiying Wang, Mingchao Feng, <font color="blue"> Meng Chen</font>, Xiaodong He<br />
+The 23rd INTERSPEECH Conference (Interspeech 2022). [Accepted, to appear]
+</p>
+
+<p>
 <b>Learning to Generate Poetic Chinese Landscape Painting with Calligraphy</b> <br />
 Shaozu Yuan, Aijun Dai, Zhiling Yan, Ruixue Liu, <font color="blue"> Meng Chen</font>, Baoyang Chen, Zhijie Qiu, Xiaodong He <br />
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022). [<a href="../papers/IJCAI22.pdf">pdf</a>]
