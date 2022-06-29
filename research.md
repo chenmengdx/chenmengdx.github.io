@@ -9,13 +9,13 @@ permalink: /research/
 <p>
 <b>SCaLa: Supervised Contrastive Learning for End-to-End Speech Recognition</b> <br />
 Li Fu, Xiaoxiao Li, Runyu Wang, Lu Fan, Zhengchen Zhang, <font color="blue"> Meng Chen</font>, Youzheng Wu, Xiaodong He <br />
-The 23rd INTERSPEECH Conference (Interspeech 2022). [Accepted, to appear]
+The 23rd INTERSPEECH Conference (Interspeech 2022). [<a href="../papers/IS22_SCaLA.pdf">pdf</a>]
 </p>
 
 <p>
 <b>Cross-modal Transfer Learning via Multi-grained Alignment for End-to-End Spoken Language Understanding</b> <br />
 Yi Zhu*, Zexun Wang*, Hang Liu, Peiying Wang, Mingchao Feng, <font color="blue"> Meng Chen</font>, Xiaodong He<br />
-The 23rd INTERSPEECH Conference (Interspeech 2022). [Accepted, to appear]
+The 23rd INTERSPEECH Conference (Interspeech 2022). [<a href="../papers/IS22_E2ESLU.pdf">pdf</a>]
 </p>
 
 <p>
