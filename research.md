@@ -7,6 +7,12 @@ permalink: /research/
 <div>
 
 <p>
+<b>Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition </b> <br />
+Meihuizi Jia, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, <font color="blue">Meng Chen</font>, Xiaodong He <br />
+The 30th ACM International Conference on Multimedia (ACM Multimedia 2022). [Accepted, to appear]
+</p>
+
+<p>
 <b>SCaLa: Supervised Contrastive Learning for End-to-End Speech Recognition</b> <br />
 Li Fu, Xiaoxiao Li, Runyu Wang, Lu Fan, Zhengchen Zhang, <font color="blue"> Meng Chen</font>, Youzheng Wu, Xiaodong He <br />
 The 23rd INTERSPEECH Conference (Interspeech 2022). [<a href="../papers/IS22_SCaLA.pdf">pdf</a>]
