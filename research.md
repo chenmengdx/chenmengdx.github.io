@@ -9,7 +9,7 @@ permalink: /research/
 <p>
 <b>Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition </b> <br />
 Meihuizi Jia, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, <font color="blue">Meng Chen</font>, Xiaodong He <br />
-The 30th ACM International Conference on Multimedia (ACM Multimedia 2022). [Accepted, to appear]
+The 30th ACM International Conference on Multimedia (ACM Multimedia 2022). [accepted, to appear]
 </p>
 
 <p>
