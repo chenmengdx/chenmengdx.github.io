@@ -7,9 +7,15 @@ permalink: /research/
 <div>
 
 <p>
+<b> MCIC: Multimodal Conversational Intent Classification for E-commerce Customer Service</b> <br />
+Shaozu Yuan, Xin Shen, Yuming Zhao, Hang Liu, Zhiling Yan, Ruixue Liu, <font color="blue">Meng Chen</font> <br />
+The 11th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2022). [accepted, to appear]
+</p>
+
+<p>
 <b>Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition </b> <br />
 Meihuizi Jia, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, <font color="blue">Meng Chen</font>, Xiaodong He <br />
-The 30th ACM International Conference on Multimedia (ACM Multimedia 2022). [accepted, to appear]
+The 30th ACM International Conference on Multimedia (ACM Multimedia 2022). [<a href="../papers/MM22_MNER.pdf">pdf</a>]
 </p>
 
 <p>
