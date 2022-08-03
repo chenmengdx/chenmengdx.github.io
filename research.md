@@ -7,6 +7,12 @@ permalink: /research/
 <div>
 
 <p>
+<b>Legal Charge Prediction via Bilinear Attention Network </b> <br />
+Yuquan Le, Yuming Zhao, <font color="blue">Meng Chen</font>, Zhe Quan, Xiaodong He, Kenli Li <br />
+The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). [accepted, to appear]
+</p>
+
+<p>
 <b> MCIC: Multimodal Conversational Intent Classification for E-commerce Customer Service</b> <br />
 Shaozu Yuan, Xin Shen, Yuming Zhao, Hang Liu, Zhiling Yan, Ruixue Liu, <font color="blue">Meng Chen</font> <br />
 The 11th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2022). [<a href="../papers/NLPCC-MCIC.pdf">pdf</a>]
