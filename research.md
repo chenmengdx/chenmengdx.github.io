@@ -7,6 +7,12 @@ permalink: /research/
 <div>
 
 <p>
+<b>Few-Shot Table Understanding: A Benchmark Dataset and Pre-Training Baseline </b> <br />
+Ruixue Liu, Shaozu Yuan, Aijun Dai, Lei Shen, Tiangang Zhu, <font color="blue">Meng Chen</font>, Xiaodong He <br />
+The 29th International Conference on Computational Linguistics (COLING 2022). [accepted, to appear]
+</p>
+
+<p>
 <b>Legal Charge Prediction via Bilinear Attention Network </b> <br />
 Yuquan Le, Yuming Zhao, <font color="blue">Meng Chen</font>, Zhe Quan, Xiaodong He, Kenli Li <br />
 The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). [accepted, to appear]
