@@ -15,7 +15,7 @@ The 29th International Conference on Computational Linguistics (COLING 2022). [a
 <p>
 <b>Legal Charge Prediction via Bilinear Attention Network </b> <br />
 Yuquan Le, Yuming Zhao, <font color="blue">Meng Chen</font>, Zhe Quan, Xiaodong He, Kenli Li <br />
-The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). [accepted, to appear]
+The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). [<a href="../papers/CIKM22.pdf">pdf</a>]
 </p>
 
 <p>
