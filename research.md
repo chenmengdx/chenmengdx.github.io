@@ -9,7 +9,7 @@ permalink: /research/
 <p>
 <b>Few-Shot Table Understanding: A Benchmark Dataset and Pre-Training Baseline </b> <br />
 Ruixue Liu, Shaozu Yuan, Aijun Dai, Lei Shen, Tiangang Zhu, <font color="blue">Meng Chen</font>, Xiaodong He <br />
-The 29th International Conference on Computational Linguistics (COLING 2022). [accepted, to appear]
+The 29th International Conference on Computational Linguistics (COLING 2022). [<a href="../papers/COLING22.pdf">pdf</a>]
 </p>
 
 <p>
