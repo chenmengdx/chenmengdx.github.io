@@ -45,7 +45,7 @@ The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022).
 <p>
 <b>Label Anchored Contrastive Learning for Language Understanding</b> <br />
 Zhenyu Zhang, Yuming Zhao, <font color="blue"> Meng Chen</font>, Xiaodong He <br />
-The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022). [<a href="../papers/NAACL22.pdf">pdf</a>]
+2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022). [<a href="../papers/NAACL22.pdf">pdf</a>]
 </p>
 
 <p>
