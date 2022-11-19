@@ -6,6 +6,13 @@ permalink: /research/
 
 <div>
 
+
+<p>
+<b>MNER-QG: An End-to-End MRC framework for Multimodal Named Entity Recognition with Query Grounding </b> <br />
+Meihuizi Jia, Lei Shen, Xin Shen, Lejian Liao, <font color="blue">Meng Chen</font>, Xiaodong He, Zhendong Chen, Jiaqi Li <br />
+The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023). [Accepted, to appear]
+</p>
+
 <p>
 <b>Few-Shot Table Understanding: A Benchmark Dataset and Pre-Training Baseline </b> <br />
 Ruixue Liu, Shaozu Yuan, Aijun Dai, Lei Shen, Tiangang Zhu, <font color="blue">Meng Chen</font>, Xiaodong He <br />
@@ -15,7 +22,7 @@ The 29th International Conference on Computational Linguistics (COLING 2022). [<
 <p>
 <b>Legal Charge Prediction via Bilinear Attention Network </b> <br />
 Yuquan Le, Yuming Zhao, <font color="blue">Meng Chen</font>, Zhe Quan, Xiaodong He, Kenli Li <br />
-The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). [<a href="../papers/CIKM22.pdf">pdf</a>]
+The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). [<a href="../papers/CIKM-22.pdf">pdf</a>]
 </p>
 
 <p>
@@ -34,6 +41,12 @@ The 23rd INTERSPEECH Conference (Interspeech 2022). [<a href="../papers/IS22_SCa
 <b>Cross-modal Transfer Learning via Multi-grained Alignment for End-to-End Spoken Language Understanding</b> <br />
 Yi Zhu*, Zexun Wang*, Hang Liu, Peiying Wang, Mingchao Feng, <font color="blue"> Meng Chen</font>, Xiaodong He<br />
 The 23rd INTERSPEECH Conference (Interspeech 2022). [<a href="../papers/IS22_E2ESLU.pdf">pdf</a>]
+</p>
+
+<p>
+<b> Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition </b> <br />
+Meihuizi Jia, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, Meng Chen, Xiaodong He <br />
+The 30th ACM International Conference on Multimedia (ACM Multimedia 2022). [<a href="../papers/MM-22.pdf">pdf</a>]
 </p>
 
 <p>
