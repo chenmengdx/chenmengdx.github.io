@@ -10,7 +10,7 @@ permalink: /research/
 <p>
 <b>MNER-QG: An End-to-End MRC framework for Multimodal Named Entity Recognition with Query Grounding </b> <br />
 Meihuizi Jia, Lei Shen, Xin Shen, Lejian Liao, <font color="blue">Meng Chen</font>, Xiaodong He, Zhendong Chen, Jiaqi Li <br />
-The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023). [Accepted, to appear]
+The 37th AAAI Conference on Artificial Intelligence (AAAI 2023). [Accepted, to appear]
 </p>
 
 <p>
@@ -45,7 +45,7 @@ The 23rd INTERSPEECH Conference (Interspeech 2022). [<a href="../papers/IS22_E2E
 
 <p>
 <b> Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition </b> <br />
-Meihuizi Jia, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, Meng Chen, Xiaodong He <br />
+Meihuizi Jia, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, <font color="blue">Meng Chen</font>, Xiaodong He <br />
 The 30th ACM International Conference on Multimedia (ACM Multimedia 2022). [<a href="../papers/MM-22.pdf">pdf</a>]
 </p>
 
