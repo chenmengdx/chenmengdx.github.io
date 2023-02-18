@@ -6,6 +6,23 @@ permalink: /research/
 
 <div>
 
+<p>
+<b> Improving Disfluency Detection with Multi-scale Self Attention and Contrastive Learning</b> <br />
+Peiying Wang, Chaoqun Duan, <font color="blue">Meng Chen</font>, Xiaodong He <br />
+2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023). [accepted, to appear]
+</p> 
+
+<p>
+<b>UFO2: A Unified Pre-training Framework for Online and Offline Speech Recognition</b> <br />
+Li Fu, Siqi Li, Qingtao Li, Liping Deng, Fangzhu Li, Lu Fan, <font color="blue">Meng Chen</font>, Xiaodong He <br />
+2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023). [accepted, to appear]
+</p>
+
+<p>
+<b>Enhancing Multimodal Alignment with Momentum Augmentation for Dense Video Captioning </b> <br />
+Yiwei Wei*, Shaozu Yuan*, <font color="blue">Meng Chen</font>, Longbiao Wang <br />
+2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023). [accepted, to appear]
+</p>
 
 <p>
 <b>MNER-QG: An End-to-End MRC framework for Multimodal Named Entity Recognition with Query Grounding </b> <br />
