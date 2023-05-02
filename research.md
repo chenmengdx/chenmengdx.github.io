@@ -7,6 +7,24 @@ permalink: /research/
 <div>
 
 <p>
+<b> DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation </b> <br />
+Guanqun Bi, Lei Shen, Yanan Cao, <font color="blue"> Meng Chen </font>, Yuqiang Xie, Zheng Lin, Xiaodong He <br />
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023) [accepted, to appear]
+</p>
+
+<p>
+<b> Dialog-Post: Multi-Level Self-Supervised Objectives and Hierarchical Model for Dialogue Post-Training </b> <br />
+Zhenyu Zhang, Lei Shen, Yuming Zhao, <font color="blue"> Meng Chen </font>, Xiaodong He <br />
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023) [accepted, to appear]
+</p>
+
+<p>
+<b> Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection </b> <br />
+Yiwei Wei, Shaozu Yuan, Ruosong Yang, Lei Shen, <font color="blue"> Meng Chen </font>, Longbiao Wang, Zhangmeizhi Li <br />
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023) [accepted, to appear]
+</p>
+
+<p>
 <b> Improving Disfluency Detection with Multi-scale Self Attention and Contrastive Learning</b> <br />
 Peiying Wang, Chaoqun Duan, <font color="blue">Meng Chen</font>, Xiaodong He <br />
 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023). [<a href="../papers/ICASSP22-Disfluency.pdf">pdf</a>]
