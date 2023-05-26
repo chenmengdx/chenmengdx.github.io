@@ -38,7 +38,7 @@ The 61st Annual Meeting of the Association for Computational Linguistics (ACL 20
 
 <p>
 <b> Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection </b> <br />
-Yiwei Wei, Shaozu Yuan, Ruosong Yang, Lei Shen, <font color="blue">Meng Chen</font>, Longbiao Wang, Zhangmeizhi Li <br />
+Yiwei Wei, Shaozu Yuan, Ruosong Yang, Lei Shen, Zhangmeizhi Li, Longbiao Wang, <font color="blue">Meng Chen</font> <br />
 The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023) [<a href="../papers/ACL23-Sentiment.pdf">pdf</a>]
 </p>
 
