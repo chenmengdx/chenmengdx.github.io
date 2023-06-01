@@ -9,19 +9,19 @@ permalink: /research/
 <p>
 <b> OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition </b> <br />
 Li Fu, Siqi Li, Qingtao Li, Fangzhu Li, Liping Deng, Lu Fan, <font color="blue">Meng Chen</font>, Youzheng Wu, Xiaodong He <br />
-The 24th INTERSPEECH Conference (Interspeech 2023) [accepted, to appear] 
+The 24th INTERSPEECH Conference (Interspeech 2023) [<a href="../papers/IS23-OTF.pdf">pdf</a>] 
 </p>
 
 <p>
 <b> Leveraging Label Information for Multimodal Emotion Recognition </b> <br />
 Peiying Wang, Sunlu Zeng, Junqing Chen, Lu Fan, <font color="blue">Meng Chen</font>, Youzheng Wu, Xiaodong He <br />
-The 24th INTERSPEECH Conference (Interspeech 2023) [accepted, to appear]
+The 24th INTERSPEECH Conference (Interspeech 2023) [<a href="../papers/IS23-MER.pdf">pdf</a>]
 </p>
 
 <p>
 <b> Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning </b> <br />
 Zhenhe Wu, Xiaoguang Yu, <font color="blue">Meng Chen</font>, Liangqing Wu, Jiahao Ji, Zhoujun Li <br />
-The 24th INTERSPEECH Conference (Interspeech 2023) [accepted, to appear]
+The 24th INTERSPEECH Conference (Interspeech 2023) [<a href="../papers/IS23-NID.pdf">pdf</a>]
 </p>
 
 <p>
