@@ -6,6 +6,13 @@ permalink: /research/
 
 <div>
 
+
+<p>
+<b> MPP-Net: Multi-Perspective Perception Network for Dense Video Captioning </b> <br />
+Yiwei Wei, Shaozu Yuan, <font color="blue">Meng Chen</font>, Xin Shen, Longbiao Wang, Lei Shen, Zhiling Yan <br />
+Neurocomputing, 2023. [accepted, to appear]
+</p>
+
 <p>
 <b> OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition </b> <br />
 Li Fu, Siqi Li, Qingtao Li, Fangzhu Li, Liping Deng, Lu Fan, <font color="blue">Meng Chen</font>, Youzheng Wu, Xiaodong He <br />
