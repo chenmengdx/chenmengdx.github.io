@@ -10,7 +10,7 @@ permalink: /research/
 <p>
 <b> MPP-Net: Multi-Perspective Perception Network for Dense Video Captioning </b> <br />
 Yiwei Wei, Shaozu Yuan, <font color="blue">Meng Chen</font>, Xin Shen, Longbiao Wang, Lei Shen, Zhiling Yan <br />
-Neurocomputing, 2023. [accepted, to appear]
+Neurocomputing, 2023. [<a href="../papers/MPP-Net.pdf">pdf</a>]
 </p>
 
 <p>
