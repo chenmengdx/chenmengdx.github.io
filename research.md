@@ -70,7 +70,7 @@ Yiwei Wei*, Shaozu Yuan*, <font color="blue">Meng Chen</font>, Longbiao Wang <br
 <p>
 <b>MNER-QG: An End-to-End MRC framework for Multimodal Named Entity Recognition with Query Grounding </b> <br />
 Meihuizi Jia, Lei Shen, Xin Shen, Lejian Liao, <font color="blue">Meng Chen</font>, Xiaodong He, Zhendong Chen, Jiaqi Li <br />
-The 37th AAAI Conference on Artificial Intelligence (AAAI 2023). [<a href="../papers/AAAI-22.pdf">pdf</a>]
+The 37th AAAI Conference on Artificial Intelligence (AAAI 2023). [<a href="../papers/AAAI-23.pdf">pdf</a>]
 </p>
 
 <p>
