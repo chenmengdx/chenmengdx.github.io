@@ -196,13 +196,13 @@ The 2020 International Joint Conference on Neural Networks (IJCNN 2020). [<a hre
 <p>
 <b>The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service</b> <br />
 <font color="blue">Meng Chen</font>, Ruixue Liu, Lei Shen, Shaozu Yuan, Jingyan Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou <br />
-The 12th International Conference on Language Resources and Evaluation (LREC 2020). [<a href="../papers/JDDC_camera_ready.pdf">pdf</a>]
+The 12th International Conference on Language Resources and Evaluation (LREC 2020). [<a href="../papers/LREC20.pdf">pdf</a>]
 </p>
 
 <p>
 <b>Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network</b> <br />
 Yuquan Le, Congqing He, <font color="blue">Meng Chen</font>, Youzheng Wu, Xiaodong He, Bowen Zhou <br />
-The 24th European Conference on Artificial Intelligence (ECAI 2020). [<a href="../papers/SAttCaps_camera_ready.pdf">pdf</a>]
+The 24th European Conference on Artificial Intelligence (ECAI 2020). [<a href="../papers/ECAI20.pdf">pdf</a>]
 </p>
 
 <p>
