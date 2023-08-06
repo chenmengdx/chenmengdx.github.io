@@ -10,7 +10,7 @@ permalink: /research/
 <p>
 <b> POSPAN: Position-Constrained Span Masking for Language Model Pre-training </b> <br />
 Zhenyu Zhang, Lei Shen, Yuming Zhao, <font color="blue">Meng Chen</font>, Xiaodong He <br />
-The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023) [Accepted, to appear]
+The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023) [accepted, to appear]
 </p>
 
 <p>
