@@ -8,6 +8,12 @@ permalink: /research/
 
 
 <p>
+<b> POSPAN: Position-Constrained Span Masking for Language Model Pre-training </b> <br />
+Zhenyu Zhang, Shen Lei, Yuming Zhao, <font color="blue">Meng Chen</font>, Xiaodong He <br />
+The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023) [Accepted, to appear]
+</p>
+
+<p>
 <b> MPP-Net: Multi-Perspective Perception Network for Dense Video Captioning </b> <br />
 Yiwei Wei, Shaozu Yuan, <font color="blue">Meng Chen</font>, Xin Shen, Longbiao Wang, Lei Shen, Zhiling Yan <br />
 Neurocomputing, 2023. [<a href="../papers/MPP-Net.pdf">pdf</a>]
