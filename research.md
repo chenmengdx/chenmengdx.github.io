@@ -6,6 +6,11 @@ permalink: /research/
 
 <div>
 
+<p>
+<b> G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection </b> <br />
+Yiwei Wei, Shaozu Yuan, Hengyang Zhou, Longbiao Wang, Zhiling Yan, Ruosong Yang, <font color="blue">Meng Chen</font> <br />
+The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024) [accepted, appear soon]
+</p>
 
 <p>
 <b> POSPAN: Position-Constrained Span Masking for Language Model Pre-training </b> <br />
