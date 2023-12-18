@@ -9,7 +9,7 @@ permalink: /research/
 <p>
 <b> G<sup>2</sup>SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection </b> <br />
 Yiwei Wei, Shaozu Yuan, Hengyang Zhou, Longbiao Wang, Zhiling Yan, Ruosong Yang, <font color="blue">Meng Chen</font> <br />
-The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024) [accepted, appear soon]
+The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024) [<a href="../papers/AAAI-24.pdf">pdf</a>]
 </p>
 
 <p>
@@ -56,7 +56,7 @@ The 61st Annual Meeting of the Association for Computational Linguistics (ACL 20
 
 <p>
 <b> Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection </b> <br />
-Yiwei Wei, Shaozu Yuan, Ruosong Yang, Lei Shen, Zhangmeizhi Li, Longbiao Wang, <font color="blue">Meng Chen</font> <br />
+Yiwei Wei*, Shaozu Yuan*, Ruosong Yang, Lei Shen, Zhangmeizhi Li, Longbiao Wang, <font color="blue">Meng Chen</font> <br />
 The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023) [<a href="../papers/ACL23-Sentiment.pdf">pdf</a>]
 </p>
 
@@ -81,7 +81,7 @@ Yiwei Wei*, Shaozu Yuan*, <font color="blue">Meng Chen</font>, Longbiao Wang <br
 <p>
 <b>MNER-QG: An End-to-End MRC framework for Multimodal Named Entity Recognition with Query Grounding </b> <br />
 Meihuizi Jia, Lei Shen, Xin Shen, Lejian Liao, <font color="blue">Meng Chen</font>, Xiaodong He, Zhendong Chen, Jiaqi Li <br />
-The 37th AAAI Conference on Artificial Intelligence (AAAI 2023). [<a href="../papers/AAAI-23.pdf">pdf</a>]
+The 37th Annual AAAI Conference on Artificial Intelligence (AAAI 2023). [<a href="../papers/AAAI-23.pdf">pdf</a>]
 </p>
 
 <p>
