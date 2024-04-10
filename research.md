@@ -7,6 +7,12 @@ permalink: /research/
 <div>
 
 <p>
+<b> MuJo-SF: Multimodal Joint Slot Filling for Attribute Value Prediction of E-commerce Commodities </b> <br />
+Meihuizi Jia, Lei Shen, Anh Tuan Luu, <font color="blue">Meng Chen</font> <br />, Jing Xu, Lejian Liao, Shaozu Yuan, Xiaodong He
+IEEE Transactions on Multimedia, 2024. (Accepted, to appear)
+</p>
+
+<p>
 <b> G<sup>2</sup>SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection </b> <br />
 Yiwei Wei*, Shaozu Yuan*, Hengyang Zhou, Longbiao Wang, Zhiling Yan, Ruosong Yang, <font color="blue">Meng Chen</font> <br />
 The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024) [<a href="../papers/AAAI-24.pdf">pdf</a>]
