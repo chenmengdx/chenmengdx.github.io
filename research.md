@@ -9,7 +9,7 @@ permalink: /research/
 <p>
 <b> MuJo-SF: Multimodal Joint Slot Filling for Attribute Value Prediction of E-commerce Commodities </b> <br />
 Meihuizi Jia, Lei Shen, Anh Tuan Luu, <font color="blue">Meng Chen</font>, Jing Xu, Lejian Liao, Shaozu Yuan, Xiaodong He <br />
-IEEE Transactions on Multimedia, 2024. (Accepted, to appear)
+IEEE Transactions on Multimedia, 2024. [<a href="../papers/TOMM-MuJo-SF.pdf">pdf</a>]
 </p>
 
 <p>
