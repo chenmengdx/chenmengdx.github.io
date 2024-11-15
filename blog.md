@@ -10,6 +10,16 @@ On this page, I have compiled a selection of recent public media coverage relate
 </p>
 
 <p>
+<b> Invited Talk at RMIT University (2024) </b> <br />
+Title: Beyond Boundaries: Navigating the Complexity of Multimodal Learning with Heterogeneity Tackling and Label-Guided Fusion [<a href="../talks/Invited_Talk_RMIT_24.pdf">pdf</a>]
+</p>
+
+<p>
+<b> Invited Talk at New York University Shanghai (2023)</b> <br />
+Title: Conversational AI: Unveiling the Magic Behind Pre-trained Large Language Models in Digital Assistants [<a href="../talks/Invited_Talk_NYU_23.pdf">pdf</a>, <a href="../talks/poster_nyu.pdf">poster</a>]
+</p>
+
+<p>
 <b> JD Releases ChatRhino LLMs at the JDD Discovery 2023 Event (2023)</b> <br />
 Link: <a href="https://www.sohu.com/a/699476047_100016644">https://www.sohu.com/a/699476047_100016644</a>
 </p>
