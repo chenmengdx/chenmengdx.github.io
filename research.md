@@ -7,6 +7,12 @@ permalink: /research/
 <div>
 
 <p>
+<b> AutoMV: An Autonomous Agent Framework for Real Estate Marketing Video Generation </b> <br />
+Kuizong Wu, Shaozu Yuan, Chang Shen, Neo Xu, <font color="blue">Meng Chen</font> <br />
+The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) [accepted, to appear]
+</p>
+
+<p>
 <b> MuJo-SF: Multimodal Joint Slot Filling for Attribute Value Prediction of E-commerce Commodities </b> <br />
 Meihuizi Jia, Lei Shen, Anh Tuan Luu, <font color="blue">Meng Chen</font>, Jing Xu, Lejian Liao, Shaozu Yuan, Xiaodong He <br />
 IEEE Transactions on Multimedia, 2024. [<a href="../papers/TOMM-MuJo-SF.pdf">pdf</a>]
