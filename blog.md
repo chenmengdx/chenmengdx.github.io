@@ -10,6 +10,11 @@ On this page, I have compiled a selection of recent public media coverage relate
 </p>
 
 <p>
+<b> Invited Talk at School of Computing Technologies (SCT) Doctoral Colloquium, RMIT University (2024) </b> <br />
+Title: Navigating the Future: Yep AI’s Journey in Generative AI Applications [<a href="../talks/Talk_RMIT_Doctoral_Colloquium.pdf">pdf</a>]
+</p>
+
+<p>
 <b> Invited Talk at RMIT University (2024) </b> <br />
 Title: Beyond Boundaries: Navigating the Complexity of Multimodal Learning with Heterogeneity Tackling and Label-Guided Fusion [<a href="../talks/Invited_Talk_RMIT_24.pdf">pdf</a>]
 </p>
