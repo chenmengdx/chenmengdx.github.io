@@ -8,7 +8,7 @@ permalink: /research/
 
 <p>
 <b> AutoMV: An Autonomous Agent Framework for Real Estate Marketing Video Generation </b> <br />
-Kuizong Wu, Shaozu Yuan, Chang Shen, Neo Xu, <font color="blue">Meng Chen</font> <br />
+Kuizong Wu, Shaozu Yuan, Chang Shen, Long Xu, <font color="blue">Meng Chen</font> <br />
 The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) [accepted, to appear]
 </p>
 
