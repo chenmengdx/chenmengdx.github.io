@@ -11,17 +11,17 @@ On this page, I have compiled a selection of recent public media coverage relate
 
 <p>
 <b> Invited Talk at School of Computing Technologies (SCT) Doctoral Colloquium, RMIT University (2024) </b> <br />
-Title: Navigating the Future: Yep AI’s Journey in Generative AI Applications [<a href="../talks/Talk_RMIT_Doctoral_Colloquium.pdf">pdf</a>]
+Title: Navigating the Future: Yep AI’s Journey in Generative AI Applications [<a href="../talks/Talk_RMIT_Doctoral_Colloquium.pdf">slides</a>]
 </p>
 
 <p>
 <b> Invited Talk at RMIT University (2024) </b> <br />
-Title: Beyond Boundaries: Navigating the Complexity of Multimodal Learning with Heterogeneity Tackling and Label-Guided Fusion [<a href="../talks/Invited_Talk_RMIT_24.pdf">pdf</a>]
+Title: Beyond Boundaries: Navigating the Complexity of Multimodal Learning with Heterogeneity Tackling and Label-Guided Fusion [<a href="../talks/Invited_Talk_RMIT_24.pdf">slides</a>]
 </p>
 
 <p>
 <b> Invited Talk at New York University Shanghai (2023)</b> <br />
-Title: Conversational AI: Unveiling the Magic Behind Pre-trained Large Language Models in Digital Assistants [<a href="../talks/Invited_Talk_NYU_23.pdf">pdf</a>, <a href="../talks/poster_nyu.pdf">poster</a>]
+Title: Conversational AI: Unveiling the Magic Behind Pre-trained Large Language Models in Digital Assistants [<a href="../talks/Invited_Talk_NYU_23.pdf">slides</a>, <a href="../talks/poster_nyu.pdf">poster</a>]
 </p>
 
 <p>
