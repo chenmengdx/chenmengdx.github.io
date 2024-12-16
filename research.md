@@ -9,7 +9,7 @@ permalink: /research/
 
 <p>
 <b> Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection</b> <br />
-Shaozu Yuan, Yiwei Wei, Hengyang Zhou, Qinfu Xu, <font color="blue">Meng Chen</font> <br />, Xiaodong He
+Shaozu Yuan, Yiwei Wei, Hengyang Zhou, Qinfu Xu, <font color="blue">Meng Chen</font>, Xiaodong He <br />
 IEEE Transactions on Multimedia, 2025 [accepted, to appear]
 </p>
 
