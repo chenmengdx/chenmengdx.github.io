@@ -6,6 +6,13 @@ permalink: /research/
 
 <div>
 
+
+<p>
+<b> Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection</b> <br />
+Shaozu Yuan, Yiwei Wei, Hengyang Zhou, Qinfu Xu, <font color="blue">Meng Chen</font> <br />, Xiaodong He
+IEEE Transactions on Multimedia, 2025 [accepted, to appear]
+</p>
+
 <p>
 <b> AutoMV: An Autonomous Agent Framework for Real Estate Marketing Video Generation </b> <br />
 Kuizong Wu, Shaozu Yuan, Chang Shen, Long Xu, <font color="blue">Meng Chen</font> <br />
