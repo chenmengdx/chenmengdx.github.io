@@ -8,9 +8,15 @@ permalink: /research/
 
 
 <p>
+<b> DeepMSD: Advancing Multimodal Sarcasm Detection through Knowledge-augmented Graph Reasoning </b> <br />
+Yiwei Wei, Hengyang Zhou, Shaozu Yuan, <font color="blue">Meng Chen</font>, Haitao Shi, Zhiyang Jia, Longbiao Wang, Xiaodong He <br />
+IEEE Transactions on Circuits and Systems for Video Technology, 2025. [accepted, to appear]
+</p>
+
+<p>
 <b> Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection</b> <br />
 Shaozu Yuan, Yiwei Wei, Hengyang Zhou, Qinfu Xu, <font color="blue">Meng Chen</font>, Xiaodong He <br />
-IEEE Transactions on Multimedia, 2025 [accepted, to appear]
+IEEE Transactions on Multimedia, 2025. [accepted, to appear]
 </p>
 
 <p>
