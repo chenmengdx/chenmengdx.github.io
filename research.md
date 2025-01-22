@@ -6,6 +6,17 @@ permalink: /research/
 
 <div>
 
+<p>
+<b> Mastering the Craft of Data Synthesis for CodeLLMs </b> <br />
+<font color="blue">Meng Chen</font>, Philip Arthur, Qianyu Feng, Cong Duy Vu Hoang, Yu-Heng Hong, Mahdi Kazemi Moghaddam, Omid Nezami, Duc Thien Nguyen, Gioacchino Tangari, Duy Vu, Thanh Vu, Mark Johnson, Krishnaram Kenthapadi, Don Dharmasiri, Long Duong, Yuan-Fang Li <br />
+The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025) [accepted, to appear]
+</p>
+
+<p>
+<b> AutoMV: An Autonomous Agent Framework for Real Estate Marketing Video Generation </b> <br />
+Kuizong Wu, Shaozu Yuan, Chang Shen, Long Xu, <font color="blue">Meng Chen</font> <br />
+The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) [accepted, to appear]
+</p>
 
 <p>
 <b> DeepMSD: Advancing Multimodal Sarcasm Detection through Knowledge-augmented Graph Reasoning </b> <br />
@@ -17,12 +28,6 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2025. [accepted,
 <b> Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection</b> <br />
 Shaozu Yuan, Yiwei Wei, Hengyang Zhou, Qinfu Xu, <font color="blue">Meng Chen</font>, Xiaodong He <br />
 IEEE Transactions on Multimedia, 2025. [accepted, to appear]
-</p>
-
-<p>
-<b> AutoMV: An Autonomous Agent Framework for Real Estate Marketing Video Generation </b> <br />
-Kuizong Wu, Shaozu Yuan, Chang Shen, Long Xu, <font color="blue">Meng Chen</font> <br />
-The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) [accepted, to appear]
 </p>
 
 <p>
