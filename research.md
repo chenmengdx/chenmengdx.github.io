@@ -15,19 +15,19 @@ The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NA
 <p>
 <b> AutoMV: An Autonomous Agent Framework for Real Estate Marketing Video Generation </b> <br />
 Kuizong Wu, Shaozu Yuan, Chang Shen, Long Xu, <font color="blue">Meng Chen</font> <br />
-The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) [accepted, to appear]
+The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) [<a href="../papers/AAAI-25.pdf">pdf</a>]
 </p>
 
 <p>
 <b> DeepMSD: Advancing Multimodal Sarcasm Detection through Knowledge-augmented Graph Reasoning </b> <br />
 Yiwei Wei, Hengyang Zhou, Shaozu Yuan, <font color="blue">Meng Chen</font>, Haitao Shi, Zhiyang Jia, Longbiao Wang, Xiaodong He <br />
-IEEE Transactions on Circuits and Systems for Video Technology, 2025. [accepted, to appear]
+IEEE Transactions on Circuits and Systems for Video Technology, 2025. [<a href="https://ieeexplore.ieee.org/document/10843779">pdf</a>]
 </p>
 
 <p>
 <b> Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection</b> <br />
 Shaozu Yuan, Yiwei Wei, Hengyang Zhou, Qinfu Xu, <font color="blue">Meng Chen</font>, Xiaodong He <br />
-IEEE Transactions on Multimedia, 2025. [accepted, to appear]
+IEEE Transactions on Multimedia, 2025. [<a href="https://ieeexplore.ieee.org/document/10891395">pdf</a>]
 </p>
 
 <p>
