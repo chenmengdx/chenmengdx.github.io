@@ -6,10 +6,17 @@ permalink: /research/
 
 <div>
 
+
+<p>
+<b> Accelerating Dense LLMs via L0-regularized Mixture-of-Experts </b> <br />
+Zhenyu Zhang, Jiudong Yang, Wentao Zhao, <font color="blue">Meng Chen</font> <br />
+The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) [accepted, to appear]
+</p>
+
 <p>
 <b> Mastering the Craft of Data Synthesis for CodeLLMs </b> <br />
 <font color="blue">Meng Chen</font>, Philip Arthur, Qianyu Feng, Cong Duy Vu Hoang, Yu-Heng Hong, Mahdi Kazemi Moghaddam, Omid Nezami, Duc Thien Nguyen, Gioacchino Tangari, Duy Vu, Thanh Vu, Mark Johnson, Krishnaram Kenthapadi, Don Dharmasiri, Long Duong, Yuan-Fang Li <br />
-The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025) [accepted, to appear]
+The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025) [<a href="../papers/NAACL-25.pdf">pdf</a>]
 </p>
 
 <p>
