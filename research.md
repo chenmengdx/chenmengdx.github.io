@@ -10,7 +10,7 @@ permalink: /research/
 <p>
 <b> Accelerating Dense LLMs via L0-regularized Mixture-of-Experts </b> <br />
 Zhenyu Zhang, Jiudong Yang, Zhaowen Tao, <font color="blue">Meng Chen</font> <br />
-The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) [accepted, to appear]
+The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) [<a href="../papers/ACL-25.pdf">pdf</a>]
 </p>
 
 <p>
