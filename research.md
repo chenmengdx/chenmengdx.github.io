@@ -10,7 +10,7 @@ permalink: /research/
 <p>
 <b> PropGenie: A Multi-Agent Conversational Framework for Real Estate Assistance </b> <br />
 Chang Shen, Shaozu Yuan, Kuizong Wu, Long Xu, <font color="blue">Meng Chen</font> <br />
-The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026) [Accepted, to appear]
+The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026) [accepted, to appear]
 </p>
 
 <p>
