@@ -8,7 +8,7 @@ permalink: /research/
 
 <p>
 <b> Tackling Model Bias via Game-theoretic Multi-agent Collaboration Framework for Hateful Meme Classification </b> <br />
-Yiwei Wei, Zhengliang Guo, Shaozu Yuan, Chengyin Hu, Zhiyang Jia, Jiujiang Guo, <font color="blue">Meng Chen</font>, Peiying Wang, Longbiao Wang
+Yiwei Wei, Zhengliang Guo, Shaozu Yuan, Chengyin Hu, Zhiyang Jia, Jiujiang Guo, <font color="blue">Meng Chen</font>, Peiying Wang, Longbiao Wang <br />
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026) [accepted, to appear]
 </p>
 
