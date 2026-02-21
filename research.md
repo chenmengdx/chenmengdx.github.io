@@ -6,6 +6,11 @@ permalink: /research/
 
 <div>
 
+<p>
+<b> Tackling Model Bias via Game-theoretic Multi-agent Collaboration Framework for Hateful Meme Classification </b> <br />
+Yiwei Wei, Zhengliang Guo, Shaozu Yuan, Chengyin Hu, Zhiyang Jia, Jiujiang Guo, <font color="blue">Meng Chen</font> <br />, Peiying Wang, Longbiao Wang
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026) [accepted, to appear]
+</p>
 
 <p>
 <b> PropGenie: A Multi-Agent Conversational Framework for Real Estate Assistance </b> <br />
