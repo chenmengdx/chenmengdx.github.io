@@ -148,6 +148,12 @@
 }
 
 .home {
+    .chinese-name {
+        font-family: "Kaiti SC", STKaiti, KaiTi, serif;
+        font-size: 1.08em;
+        font-weight: 400;
+    }
+
     .profile-photo {
         float: right;
         width: 400px;
@@ -214,7 +220,7 @@ h1 /* .post-title */ {
 /*    font-size: 42px; */
     letter-spacing: -1px;
     line-height: 1;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: $base-font-family;
 		color: $primary-color;
 
     @include media-query($on-laptop) {
@@ -226,8 +232,8 @@ h1 /* .post-title */ {
     margin-bottom: $spacing-unit;
 
     h2 {
-		font-family: 'Titillium Web', sans-serif;
-	font-weight: 500;
+		font-family: $base-font-family;
+	font-weight: 600;
 /*        font-size: 32px; */
 
         @include media-query($on-laptop) {
@@ -268,7 +274,7 @@ ul.listing {
 ul.listing li.listing-seperator {
 	padding-top: 15px;
 	font-weight: bold;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: $base-font-family;
 	font-size: 1.17em;
 }
 
@@ -283,5 +289,5 @@ ul.listing li.listing-item time {
 ul.listing li.listing-item a {
 	color: $primary-color;
 	font-weight: 400;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: $base-font-family;
 }
