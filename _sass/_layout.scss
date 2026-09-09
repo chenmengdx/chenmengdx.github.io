@@ -11,7 +11,7 @@
 
     .page-link {
         color: #ffffff;
-    background: #f66733;
+	    background: $primary-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -215,7 +215,7 @@ h1 /* .post-title */ {
     letter-spacing: -1px;
     line-height: 1;
 		font-family: 'Titillium Web', sans-serif;
-		color: #522d80;
+		color: $primary-color;
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
@@ -281,7 +281,7 @@ ul.listing li.listing-item time {
 }
 
 ul.listing li.listing-item a {
-	color: $clemson-purple;
+	color: $primary-color;
 	font-weight: 400;
 	font-family: 'Titillium Web', sans-serif;
 }
