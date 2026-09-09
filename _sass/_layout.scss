@@ -147,6 +147,20 @@
     padding: $spacing-unit 0;
 }
 
+.home {
+    .bio-section + .bio-section {
+        margin-top: $spacing-unit;
+    }
+
+    .bio-section p {
+        margin-bottom: $spacing-unit / 3;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}
+
 .page-heading {
     font-size: 20px;
 }
@@ -254,4 +268,3 @@ ul.listing li.listing-item a {
 	font-weight: 400;
 	font-family: 'Titillium Web', sans-serif;
 }
-
