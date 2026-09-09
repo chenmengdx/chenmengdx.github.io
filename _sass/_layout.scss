@@ -148,6 +148,13 @@
 }
 
 .home {
+    .profile-photo {
+        float: right;
+        width: 400px;
+        max-width: 45%;
+        margin: 0 0 ($spacing-unit / 2) $spacing-unit;
+    }
+
     .bio-section + .bio-section {
         margin-top: $spacing-unit;
     }
@@ -157,6 +164,16 @@
 
         &:last-child {
             margin-bottom: 0;
+        }
+    }
+
+    @include media-query($on-palm) {
+        .profile-photo {
+            float: none;
+            display: block;
+            width: 100%;
+            max-width: 400px;
+            margin: 0 auto ($spacing-unit / 2);
         }
     }
 }
