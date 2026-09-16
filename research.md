@@ -19,6 +19,12 @@ The 19th Conference of the European Chapter of the Association for Computational
 </p>
 
 <p>
+<b> From Tables to Graph: A Unified Framework for Knowledge Graph Construction from Complex Relational Databases </b> <br />
+Ziyu Zhao, Wei Liu, Tim French, Michael Stewart, <font color="blue">Meng Chen</font>, Feiyu Liao <br />
+PRICAI 2026 Workshop on Principle and Practice of Data and Knowledge Acquisition. (Accepted, to appear)
+</p>
+
+<p>
 <b> Accelerating Dense LLMs via L0-regularized Mixture-of-Experts </b> <br />
 Zhenyu Zhang, Jiudong Yang, Zhaowen Tao, <font color="blue">Meng Chen</font> <br />
 The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) [<a href="../papers/ACL-25.pdf">pdf</a>]
