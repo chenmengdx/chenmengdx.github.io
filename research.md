@@ -21,7 +21,7 @@ The 19th Conference of the European Chapter of the Association for Computational
 <p>
 <b> From Tables to Graph: A Unified Framework for Knowledge Graph Construction from Complex Relational Databases </b> <br />
 Ziyu Zhao, Wei Liu, Tim French, Michael Stewart, <font color="blue">Meng Chen</font>, Feiyu Liao <br />
-PRICAI 2026 Workshop on Principle and Practice of Data and Knowledge Acquisition. (Accepted, to appear)
+PRICAI 2026 Workshop on Principle and Practice of Data and Knowledge Acquisition. [<a href="../papers/PKAW-26.pdf">pdf</a>]
 </p>
 
 <p>
