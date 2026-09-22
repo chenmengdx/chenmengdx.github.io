@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chenmengdx.github.io" # the base hostname & protocol for your site
 twitter_username: chenmengdx
 github_username:  chenmengdx
-linkedin_url: "https://www.linkedin.com/in/meng-chen-50547a3a/"
+linkedin_url: "https://www.linkedin.com/in/chenmengdx"
 google_scholar_url: "https://scholar.google.com/citations?user=oFyp8_0AAAAJ&hl=en"
 
 # Build settings
