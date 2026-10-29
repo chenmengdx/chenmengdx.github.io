@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Patent WenKai";
+    src: url("../fonts/LXGWWenKaiLite-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+2E80-9FFF, U+F900-FAFF, U+FF00-FFEF, U+20000-3134F;
+}
+
+.patent-list {
+    font-family: "Source Sans 3", "Patent WenKai", "Kaiti SC", STKaiti, KaiTi, serif;
+    line-height: 1.65;
+
+    .patent-entry {
+        margin-bottom: 1.65em;
+    }
+
+    .patent-title {
+        margin: 0;
+        font-family: inherit;
+        font-size: 1em;
+        font-weight: 600;
+        line-height: inherit;
+    }
+
+    .patent-inventors,
+    .patent-details {
+        margin: 0;
+    }
+
+    .patent-author {
+        color: #165dcc;
+    }
+
+    .patent-details {
+        color: #55636a;
+    }
+
+    .patent-number,
+    .patent-details time,
+    .patent-resource {
+        white-space: nowrap;
+    }
+
+    .patent-resource {
+        margin-left: 0.2em;
+    }
+}

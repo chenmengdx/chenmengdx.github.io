@@ -1,0 +1,5 @@
+LXGW WenKai Lite Regular
+Source: https://github.com/lxgw/LxgwWenKai-Lite
+Downloaded: 2026-10-29
+Converted from TTF to WOFF2 without subsetting or changing glyphs.
+License: SIL Open Font License 1.1 (see OFL.txt).
