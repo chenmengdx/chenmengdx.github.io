@@ -9,10 +9,10 @@
 
 .patent-list {
     font-family: "Source Sans 3", "Patent WenKai", "Kaiti SC", STKaiti, KaiTi, serif;
-    line-height: 1.65;
+    line-height: $base-line-height;
 
     .patent-entry {
-        margin-bottom: 1.65em;
+        margin-bottom: $spacing-unit / 2;
     }
 
     .patent-title {
